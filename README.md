@@ -9,12 +9,6 @@ Building scalable systems and exploring AI-driven solutions.
 Independent Game Developer at SurprisingStudio  
 Crafting creative games during my spare time.  
 
-🔧 **Skills**  
-- Programming: Python, C++, JavaScript  
-- Game Development: Unity, Unreal Engine  
-- Cloud & DevOps: AWS, Docker  
-- AI/ML Basics  
-
 🌱 **Interests**  
 Game design, algorithm optimization, and space exploration documentaries.  
 
