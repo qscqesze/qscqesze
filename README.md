@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi there! I'm qscqesze  
+📍 Based in [Beijing, China]  
 
-<!--
-**qscqesze/qscqesze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Current Role**  
+Software Engineer at Minimax  
+Building scalable systems and exploring AI-driven solutions.  
 
-Here are some ideas to get you started:
+🎮 **Side Project**  
+Independent Game Developer at SurprisingStudio  
+Crafting creative games during my spare time.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Skills**  
+- Programming: Python, C++, JavaScript  
+- Game Development: Unity, Unreal Engine  
+- Cloud & DevOps: AWS, Docker  
+- AI/ML Basics  
+
+🌱 **Interests**  
+Game design, algorithm optimization, and space exploration documentaries.  
+
+📫 Let's connect!  
+Email: [qscqesze@gmail.com]  
+Website: [https://surprising.studio](https://surprising.studio)  
