@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qscqesze&layout=compact&theme=tokyonight)
+
 👋 Hi there! I'm qscqesze  
 📍 Based in [Beijing, China]  
 
