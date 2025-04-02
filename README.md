@@ -2,7 +2,7 @@
 📍 Based in [Beijing, China]  
 
 💼 **Current Role**  
-Software Engineer at Minimax  
+Software Engineer at [MiniMax](https://www.minimax.io/)  
 Building scalable systems and exploring AI-driven solutions.  
 
 🎮 **Side Project**  
